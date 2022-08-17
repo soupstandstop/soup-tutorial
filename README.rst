@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Soup concept playground
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub includes basic OS & Python & Golang & Other concept with Sphinx docs.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://soup-tutorial.readthedocs.io/en/latest/
