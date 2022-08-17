@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "soup-tutorial"
-authors = [{name = "Graziella", email = "h42318@gmail.com"}]
+authors = [{name = "Li-Ting", email = "h42318@gmail.com"}]
 dynamic = ["version", "description"]
